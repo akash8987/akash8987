@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Akash
+# Hi there 💖  I'm Akash
 
 🚀 Software Developer | System Programming | Backend & Automation  
 💻 Passionate about building efficient, scalable, and low-level systems  
